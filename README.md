@@ -1,4 +1,4 @@
-# roman_calculator
+# Roman Calculator
 A roman number calculator for all roman calculations implemented in Python !
 
 Install pygame and pygbutton to use.
